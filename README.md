@@ -18,9 +18,9 @@ This notebook is designed to demonstrate:
 
 ## 📁 Project Structure
 
-├── LSD_Analysis.ipynb # Jupyter Notebook (main analysis)
-├── lsd_math_score_data.csv # Dataset (Wagner et al., 1968)
-└── README.md # Project documentation
+LSD_Analysis.ipynb       # Jupyter Notebook (main analysis)
+lsd_math_score_data.csv  # Dataset (Wagner et al., 1968)
+README.md                # Project documentation
 
 ---
 
